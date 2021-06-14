@@ -1,0 +1,58 @@
+# Peter Gichia
+
+<img src="images/peter.jpg" align="right" />
+
+I'm Peter Gichia and I go by `seanpeters`. I love building things and expecially mobile applications with java and kotlin and also webservices using springboot framework.
+
+I want to start contributing to open source especially softwares that i directly work with. 
+
+---
+
+
+**Social Media:**
+
+[![GitHub](icons/github.png)](https://www.linkedin.com/in/peter-gichia-b014b5130/)
+[![GitLab](icons/gitlab.png)](https://gitlab.com/Peter-cloud-web)
+[![Twitter](icons/twitter.png)](https://twitter.com/gichia_p)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/peter-gichia-b014b5130/)
+[![Instagram](icons/instagram.png)]()
+
+**Currently working with:**
+
+
+
+
+
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://www.docker.com/" title="Java"><img src="icons/java.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
+<a href="https://www.terraform.io/" title="HTML"><img src="icons/html.png" /></a>
+<a href="https://www.ansible.com/" title="CSS"><img src="icons/css-3.png" /></a>
+<a href="https://www.typescriptlang.org/" title="Android"><img src="icons/android.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://www.jetbrains.com/phpstorm/" title="Postman"><img src="icons/postman.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="Kotlin"><img src="icons/ikotlin.png" /></a>
+<a href="https://www.mysql.com/" title="Postgresql"><img src="icons/postgres.png" /></a>
+<a href="https://mariadb.org/" title="Firebase"><img src="icons/firebase.png" /></a>
+<a href="https://www.jetbrains.com/phpstorm/" title="Intellij IDEA"><img src="icons/intellij.png" /></a>
+
+
+**Learning:**
+
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://www.jetbrains.com/phpstorm/" title="Pycharm"><img src="icons/pycharm.png" /></a>
+<a href="https://www.jetbrains.com/phpstorm/" title="Springboot"><img src="icons/spring.png" /></a>
+
+
+**Previously worked with:**
+
+<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
+<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+
+
+**Currently focused on building:**
+
+Building Android apps, web services and contributing to open source
+
+[How did I build this?](https://youtu.be/UqNbBe3lVCI)
