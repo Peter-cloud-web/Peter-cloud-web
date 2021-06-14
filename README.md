@@ -55,4 +55,3 @@ I want to start contributing to open source especially softwares that i directly
 
 Building Android apps, web services and contributing to open source
 
-[How did I build this?](https://youtu.be/UqNbBe3lVCI)
