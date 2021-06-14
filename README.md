@@ -1,4 +1,4 @@
-# Peter Gichia
+# Peter. M. Gichia
 
 <img src="images/peter.jpg" align="right" />
 
@@ -17,10 +17,8 @@ I want to start contributing to open source especially softwares that i directly
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/peter-gichia-b014b5130/)
 [![Instagram](icons/instagram.png)]()
 
+
 **Currently working with:**
-
-
-
 
 
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
@@ -54,4 +52,8 @@ I want to start contributing to open source especially softwares that i directly
 **Currently focused on building:**
 
 Building Android apps, web services and contributing to open source
+
+**Stats:**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Peter-cloud-web&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
