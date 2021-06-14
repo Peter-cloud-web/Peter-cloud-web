@@ -24,25 +24,25 @@ I want to start contributing to open source especially softwares that i directly
 
 
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Java"><img src="icons/java.png" /></a>
+<a href="https://www.java.com/en/" title="Java"><img src="icons/java.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://www.terraform.io/" title="HTML"><img src="icons/html.png" /></a>
-<a href="https://www.ansible.com/" title="CSS"><img src="icons/css-3.png" /></a>
-<a href="https://www.typescriptlang.org/" title="Android"><img src="icons/android.png" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="icons/html.png" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS" title="CSS"><img src="icons/css-3.png" /></a>
+<a href="https://www.android.com/" title="Android"><img src="icons/android.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="Postman"><img src="icons/postman.png" /></a>
+<a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="Kotlin"><img src="icons/ikotlin.png" /></a>
-<a href="https://www.mysql.com/" title="Postgresql"><img src="icons/postgres.png" /></a>
+<a href="https://www.postgresql.org/" title="Postgresql"><img src="icons/postgres.png" /></a>
 <a href="https://mariadb.org/" title="Firebase"><img src="icons/firebase.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="Intellij IDEA"><img src="icons/intellij.png" /></a>
+<a href="https://www.jetbrains.com/" title="Intellij IDEA"><img src="icons/intellij.png" /></a>
 
 
 **Learning:**
 
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="Pycharm"><img src="icons/pycharm.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="Springboot"><img src="icons/spring.png" /></a>
+<a href="https://www.jetbrains.com/pycharm/" title="Pycharm"><img src="icons/pycharm.png" /></a>
+<a href="https://spring.io/projects/spring-boot" title="Springboot Framework"><img src="icons/spring.png" /></a>
 
 
 **Previously worked with:**
