@@ -11,7 +11,7 @@ I want to start contributing to open source especially softwares that i directly
 
 **Social Media:**
 
-[![GitHub](icons/github.png)](https://www.linkedin.com/in/peter-gichia-b014b5130/)
+[![GitHub](icons/github.png)](https://github.com/Peter-cloud-web)
 [![GitLab](icons/gitlab.png)](https://gitlab.com/Peter-cloud-web)
 [![Twitter](icons/twitter.png)](https://twitter.com/gichia_p)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/peter-gichia-b014b5130/)
