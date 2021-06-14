@@ -32,9 +32,9 @@ I want to start contributing to open source especially softwares that i directly
 <a href="https://www.android.com/" title="Android"><img src="icons/android.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 <a href="https://www.postman.com/" title="Postman"><img src="icons/postman.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="Kotlin"><img src="icons/ikotlin.png" /></a>
+<a href="https://kotlinlang.org/" title="Kotlin"><img src="icons/ikotlin.png" /></a>
 <a href="https://www.postgresql.org/" title="Postgresql"><img src="icons/postgres.png" /></a>
-<a href="https://mariadb.org/" title="Firebase"><img src="icons/firebase.png" /></a>
+<a href="https://firebase.google.com/" title="Firebase"><img src="icons/firebase.png" /></a>
 <a href="https://www.jetbrains.com/" title="Intellij IDEA"><img src="icons/intellij.png" /></a>
 
 
