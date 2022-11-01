@@ -11,7 +11,9 @@ I want to start contributing to open source especially softwares that i directly
 
 **Blogposts :**
 
-<a href="https://hashnode.com/@seanpeters"> Hashnode </a>
+#### :books: Recent Blog Posts on <a href="https://hashnode.com/@seanpeters"> Hashnode </a>
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 
 **Social Media:**
@@ -62,4 +64,6 @@ Building Android apps, web services and contributing to open source
 **Stats:**
 
 <img src="https://github-readme-stats.vercel.app/api?username=Peter-cloud-web&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+
 
