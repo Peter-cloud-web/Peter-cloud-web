@@ -13,11 +13,11 @@ I want to start contributing to open source especially softwares that i directly
 
 #### :books: Recent Blog Posts on <a href="https://hashnode.com/@seanpeters"> Hashnode </a>
 <!-- BLOGPOSTS:START -->
- - 🌮 [Securing Your API Keys in local.properties in Android](https://petergichia.hashnode.dev/securing-your-api-keys-in-localproperties-in-android-ckwfy5d0y09d217s1h15e2biv)
- - 💫 [When and How to use Lateinit or By Lazy in Kotlin](https://petergichia.hashnode.dev/when-and-how-to-use-lateinit-or-by-lazy-in-kotlin-cks6wzdwd060lous16k4pcsp0)
- - 💯 [Lets Talk Blockchain Technology](https://petergichia.hashnode.dev/lets-talk-blockchain-technology-ckqjkqns603aq95s1329b9oht)
- - 💫 [Insertion Sort and Selection Sort Algorithms](https://petergichia.hashnode.dev/insertion-sort-and-selection-sort-algorithms-ckpzsowtv017n4vs1fnv2ainu)
- - 💯 [Understanding Lambdas in Kotlin](https://petergichia.hashnode.dev/understanding-lambdas-in-kotlin-ckpk8j9790dfuw9s1cgma2yx7)<!-- BLOGPOSTS:END -->
+ - 🌮 [Embracing a Growth Mindset: Unlocking Your Learning Potential](https://petergichia.hashnode.dev/embracing-a-growth-mindset-unlocking-your-learning-potential-clhloniaw001309mihwtx1k48)
+ - 💫 [Securing Your API Keys in local.properties in Android](https://petergichia.hashnode.dev/securing-your-api-keys-in-localproperties-in-android-ckwfy5d0y09d217s1h15e2biv)
+ - 💯 [When and How to use Lateinit or By Lazy in Kotlin](https://petergichia.hashnode.dev/when-and-how-to-use-lateinit-or-by-lazy-in-kotlin-cks6wzdwd060lous16k4pcsp0)
+ - 💫 [Lets Talk Blockchain Technology](https://petergichia.hashnode.dev/lets-talk-blockchain-technology-ckqjkqns603aq95s1329b9oht)
+ - 💯 [Insertion Sort and Selection Sort Algorithms](https://petergichia.hashnode.dev/insertion-sort-and-selection-sort-algorithms-ckpzsowtv017n4vs1fnv2ainu)<!-- BLOGPOSTS:END -->
 
 
 **Social Media:**
