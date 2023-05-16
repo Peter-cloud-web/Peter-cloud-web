@@ -19,6 +19,9 @@ I want to start contributing to open source especially softwares that i directly
  - 💫 [Lets Talk Blockchain Technology](https://petergichia.hashnode.dev/lets-talk-blockchain-technology-ckqjkqns603aq95s1329b9oht)
  - 💯 [Insertion Sort and Selection Sort Algorithms](https://petergichia.hashnode.dev/insertion-sort-and-selection-sort-algorithms-ckpzsowtv017n4vs1fnv2ainu)<!-- BLOGPOSTS:END -->
 
+**Published Courses:**
+- [Educative,Inc : Mastering MVVM Architecture in Android Development using Kotlin](https://www.educative.io/courses/mastering-mvm-architecture-in-android-development-using-kotlin)
+
 
 **Social Media:**
 
