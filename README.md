@@ -16,7 +16,7 @@ I want to start contributing to open source especially softwares that i directly
  - 🌮 [Declarative vs Imperative Programming in Kotlin](https://petergichia.hashnode.dev/declarative-vs-imperative-programming-in-kotlin-cljiy9l54000009l15uwyet68)
  - 💫 [Understanding the Basics: Exploring Jetpack Navigation Component and Bottom Navigation.](https://petergichia.hashnode.dev/understanding-the-basics-exploring-jetpack-navigation-component-and-bottom-navigation-clj62hwnd000709mobjh6ax8y)
  - 💯 [Embracing a Growth Mindset: Unlocking Your Learning Potential](https://petergichia.hashnode.dev/embracing-a-growth-mindset-unlocking-your-learning-potential-clhloniaw001309mihwtx1k48)
- - 💫 [Securing Your API Keys in local.properties in Android](https://petergichia.hashnode.dev/securing-your-api-keys-in-localproperties-in-android-ckwfy5d0y09d217s1h15e2biv)
+ - 💫 [Protecting Your Application from API Key Vulnerabilities](https://petergichia.hashnode.dev/protecting-your-application-from-api-key-vulnerabilities-ckwfy5d0y09d217s1h15e2biv)
  - 💯 [When and How to use Lateinit or By Lazy in Kotlin](https://petergichia.hashnode.dev/when-and-how-to-use-lateinit-or-by-lazy-in-kotlin-cks6wzdwd060lous16k4pcsp0)<!-- BLOGPOSTS:END -->
 
 **Published Courses:**
