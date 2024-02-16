@@ -13,11 +13,11 @@ I want to start contributing to open source especially softwares that i directly
 
 #### :books: Recent Blog Posts on <a href="https://hashnode.com/@seanpeters"> Hashnode </a>
 <!-- BLOGPOSTS:START -->
- - 🌮 [Mastering Kotlin&#39;s Scope Functions: A Comprehensive Guide to let, apply, run, and with.](https://petergichia.hashnode.dev/mastering-kotlins-scope-functions-a-comprehensive-guide-to-let-apply-run-and-with-clor18hj8000009l832o8b5sh)
- - 💫 [Declarative vs Imperative Programming in Kotlin](https://petergichia.hashnode.dev/declarative-vs-imperative-programming-in-kotlin-cljiy9l54000009l15uwyet68)
- - 💯 [Understanding the Basics: Exploring Jetpack Navigation Component and Bottom Navigation.](https://petergichia.hashnode.dev/understanding-the-basics-exploring-jetpack-navigation-component-and-bottom-navigation-clj62hwnd000709mobjh6ax8y)
- - 💫 [Embracing a Growth Mindset: Unlocking Your Learning Potential](https://petergichia.hashnode.dev/embracing-a-growth-mindset-unlocking-your-learning-potential-clhloniaw001309mihwtx1k48)
- - 💯 [Protecting Your Application from API Key Vulnerabilities](https://petergichia.hashnode.dev/protecting-your-application-from-api-key-vulnerabilities-ckwfy5d0y09d217s1h15e2biv)<!-- BLOGPOSTS:END -->
+ - 🌮 [Coroutines Exceptions Handling: A Guide to SupervisorScope, SupervisorJob, and CoroutineExceptionHandler.](https://petergichia.hashnode.dev/coroutines-exceptions-handling-a-guide-to-supervisorscope-supervisorjob-and-coroutineexceptionhandler-clsnlsduw000408l39fer65ym)
+ - 💫 [Mastering Kotlin&#39;s Scope Functions: A Comprehensive Guide to let, apply, run, and with.](https://petergichia.hashnode.dev/mastering-kotlins-scope-functions-a-comprehensive-guide-to-let-apply-run-and-with-clor18hj8000009l832o8b5sh)
+ - 💯 [Declarative vs Imperative Programming in Kotlin](https://petergichia.hashnode.dev/declarative-vs-imperative-programming-in-kotlin-cljiy9l54000009l15uwyet68)
+ - 💫 [Understanding the Basics: Exploring Jetpack Navigation Component and Bottom Navigation.](https://petergichia.hashnode.dev/understanding-the-basics-exploring-jetpack-navigation-component-and-bottom-navigation-clj62hwnd000709mobjh6ax8y)
+ - 💯 [Embracing a Growth Mindset: Unlocking Your Learning Potential](https://petergichia.hashnode.dev/embracing-a-growth-mindset-unlocking-your-learning-potential-clhloniaw001309mihwtx1k48)<!-- BLOGPOSTS:END -->
 
 **Published Courses:**
 - [Educative,Inc : Mastering MVVM Architecture in Android Development using Kotlin](https://www.educative.io/courses/mastering-mvm-architecture-in-android-development-using-kotlin)
