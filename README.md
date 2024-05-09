@@ -13,11 +13,11 @@ I want to start contributing to open source especially softwares that i directly
 
 #### :books: Recent Blog Posts on <a href="https://hashnode.com/@seanpeters"> Hashnode </a>
 <!-- BLOGPOSTS:START -->
- - 🌮 [Clean Architecture with SOLID Principles: Part 1](https://petergichia.hashnode.dev/clean-architecture-with-solid-principles-part-1)
- - 💫 [Modern Android App Development with Clean Architecture Series](https://petergichia.hashnode.dev/modern-android-app-development-with-clean-architecture-series)
- - 💯 [Coroutines Exceptions Handling: A Guide to SupervisorScope, SupervisorJob, and CoroutineExceptionHandler.](https://petergichia.hashnode.dev/coroutines-exceptions-handling-a-guide-to-supervisorscope-supervisorjob-and-coroutineexceptionhandler)
- - 💫 [Mastering Kotlin&#39;s Scope Functions: A Comprehensive Guide to let, apply, run, and with.](https://petergichia.hashnode.dev/mastering-kotlins-scope-functions-a-comprehensive-guide-to-let-apply-run-and-with)
- - 💯 [Declarative vs Imperative Programming in Kotlin](https://petergichia.hashnode.dev/declarative-vs-imperative-programming-in-kotlin)<!-- BLOGPOSTS:END -->
+ - 🌮 [Architecting for Flexibility: Unveiling the Layers of Clean Architecture - Part 2](https://petergichia.hashnode.dev/architecting-for-flexibility-unveiling-the-layers-of-clean-architecture-part-2)
+ - 💫 [Clean Architecture with SOLID Principles: Part 1](https://petergichia.hashnode.dev/clean-architecture-with-solid-principles-part-1)
+ - 💯 [Modern Android App Development with Clean Architecture Series](https://petergichia.hashnode.dev/modern-android-app-development-with-clean-architecture-series)
+ - 💫 [Coroutines Exceptions Handling: A Guide to SupervisorScope, SupervisorJob, and CoroutineExceptionHandler.](https://petergichia.hashnode.dev/coroutines-exceptions-handling-a-guide-to-supervisorscope-supervisorjob-and-coroutineexceptionhandler)
+ - 💯 [Mastering Kotlin&#39;s Scope Functions: A Comprehensive Guide to let, apply, run, and with.](https://petergichia.hashnode.dev/mastering-kotlins-scope-functions-a-comprehensive-guide-to-let-apply-run-and-with)<!-- BLOGPOSTS:END -->
 
 **Published Courses:**
 - [Educative,Inc : Mastering MVVM Architecture in Android Development using Kotlin](https://www.educative.io/courses/mastering-mvm-architecture-in-android-development-using-kotlin)
